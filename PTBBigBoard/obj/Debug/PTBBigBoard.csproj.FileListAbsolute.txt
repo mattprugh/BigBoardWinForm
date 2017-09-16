@@ -1,0 +1,9 @@
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\bin\Debug\PTBBigBoard.exe.config
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\bin\Debug\PTBBigBoard.exe
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\bin\Debug\PTBBigBoard.pdb
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\obj\Debug\PTBBigBoard.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\obj\Debug\PTBBigBoard.frmBigBoardMain.resources
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\obj\Debug\PTBBigBoard.Properties.Resources.resources
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\obj\Debug\PTBBigBoard.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\obj\Debug\PTBBigBoard.exe
+C:\Users\Matt\Desktop\PTBBigBoard\PTBBigBoard\obj\Debug\PTBBigBoard.pdb
